@@ -30,3 +30,7 @@ HEADERS  += \
 FORMS    += mainwindow.ui \
     dialog.ui \
     console.ui
+
+OTHER_FILES += \
+    AUTHORS.txt \
+    .gitignore
